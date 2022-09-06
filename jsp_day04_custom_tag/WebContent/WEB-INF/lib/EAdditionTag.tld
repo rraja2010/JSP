@@ -1,0 +1,21 @@
+<taglib>
+	<jsp-version>2.2</jsp-version>
+	<tlib-version>1.1</tlib-version>
+	
+	<tag>
+		<name>addition</name>
+		<tag-class>com.lara.EAdditionTag</tag-class>
+		<attribute>
+			<name>num1</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<bodycontent>jsp</bodycontent>
+
+	<attribute>
+		<name>num2</name>
+		<required>false</required>
+	</attribute>			
+	
+	</tag>
+</taglib>

@@ -1,0 +1,16 @@
+<taglib>
+
+<jsp-version>2.2</jsp-version>
+<tlib-version>1.0</tlib-version>
+
+	<tag>
+		<name>itTag</name>
+		<tag-class>com.lara.FDMyIterationTag</tag-class>
+	
+		<attribute>
+			<name>index</name>
+			<required>true</required>
+		</attribute>
+	</tag>
+
+</taglib>

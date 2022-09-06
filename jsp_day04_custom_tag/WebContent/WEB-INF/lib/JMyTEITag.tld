@@ -1,0 +1,12 @@
+<taglib>
+
+<jsp-version>2.2</jsp-version>
+<tlib-version>1.0</tlib-version>
+
+	<tag>
+		<name>tTag</name>
+		<tag-class>com.lara.JMyTEITag</tag-class>
+		<tei-class>com.lara.JTestTag</tei-class>
+	</tag>
+
+</taglib>

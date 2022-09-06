@@ -1,0 +1,12 @@
+<taglib>
+	<jsp-version>2.2</jsp-version>
+	<tlib-version>1.0</tlib-version>
+	<tag>
+		<name>amit</name>
+		<tag-class>com.lara.DreverseTag</tag-class>
+		<attribute>
+			<name>parameter</name>
+			  <required>true</required>
+		</attribute>
+	</tag>
+</taglib>

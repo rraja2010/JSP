@@ -1,0 +1,11 @@
+<taglib>
+	<jsp-version>2.2</jsp-version>
+	 <tlib-version>1.0</tlib-version> 
+	
+	<tag>
+		<name>bodyTag</name>
+		<tag-class>com.lara.GBodyTagHandler</tag-class>
+	
+	</tag>
+
+</taglib>

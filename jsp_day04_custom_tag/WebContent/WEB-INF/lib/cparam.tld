@@ -1,0 +1,19 @@
+<taglib>
+
+<jsp-version>2.2</jsp-version>
+<tlib-version>1.0</tlib-version>
+
+	<tag>
+		<name>amit</name>
+		<tag-class>com.lara.CparamTag</tag-class>
+	
+		<attribute>
+			<name>param1</name>
+			<required>true</required>
+		</attribute>
+		
+		
+		<bodycontent>SCRIPTLESS</bodycontent>
+	</tag>
+
+</taglib>
